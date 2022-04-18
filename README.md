@@ -28,5 +28,5 @@ However, we would suggest running more analysis such as determining the mean, me
 [Amazon retail review website]( https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
 [Dataset]( https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Personal_Care_Appliances_v1_00.tsv.gz)
 #### Software:
-Google Colab Notebook, PostgresSQL, pgAdmin 4, AWS
+Google Colab Notebook,</br> PostgresSQL, pgAdmin 4, AWS
 
