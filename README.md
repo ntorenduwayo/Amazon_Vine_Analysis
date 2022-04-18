@@ -25,8 +25,8 @@ The analysis revealed that about 66.7% of reviews in the Vine program were 5-sta
 However, we would suggest running more analysis such as determining the mean, median, and the mode of the star rating variable for both programs (i.e., Vine, non-Vine reviews). These could be followed up by a t-test to compare the means, or a Kruskal_Wallis test to compare the medians to make sure that these two population are actually statistically different.
 ## Resources
 #### Data source:
-[Amazon retail review website]( https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
+[Amazon retail review website]( https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) </br>
 [Dataset]( https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Personal_Care_Appliances_v1_00.tsv.gz)
 #### Software:
-Google Colab Notebook,</br> PostgresSQL, pgAdmin 4, AWS
+Google Colab Notebook, PostgresSQL, pgAdmin 4, AWS
 
