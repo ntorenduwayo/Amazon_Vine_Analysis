@@ -9,7 +9,7 @@ We performed an ETL (i.e., Extract, Transform, and Load) process to extract the 
 ![Vine reviews](https://user-images.githubusercontent.com/34750363/163735848-f5ea327a-2798-4f99-9a40-f69b61736a91.png)
 * Non-Vine reviews 
 ![Non-Vine reviews](https://user-images.githubusercontent.com/34750363/163735911-53a9080d-fb71-4651-b871-6e611d8ccce9.png)
-	#### Total count of 5-star reviews
+#### Total count of 5-star reviews
 * Vine reviews
 ![Vine reviews 5-star](https://user-images.githubusercontent.com/34750363/163735937-cf517be5-7d60-4d8d-a543-2910dc88af11.png)
 * Non-Vine reviews 
